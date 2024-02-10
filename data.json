@@ -1,0 +1,11 @@
+[
+    { "nombre": "Portátil", "marca": "Asus", "precio": 1000, "imagen": "img/laptop.webp" },
+    { "nombre": "Escritorio", "marca": "MaNitro5", "precio": 800, "imagen": "img/ah_t200_1nw.webp" },
+    { "nombre": "Monitor", "marca": "Lgd", "precio": 200, "imagen": "img/Asus.webp" },
+    { "nombre": "Teclado", "marca": "Hyperx", "precio": 50, "imagen": "img/teclado.webp" },
+    { "nombre": "SSD", "marca": "Kingston", "precio": 120, "imagen": "img/hdd.webp" },
+    { "nombre": "Memoria RAM", "marca": "Ram Ddr4 8gb Fury Hyperx ", "precio": 80, "imagen": "img/black452.webp" },
+    { "nombre": "Pad", "marca": "Lenovo", "precio": 15, "imagen": "img/Ergonomic_mouse_pad.webp" },
+    { "nombre": "Fuente", "marca": "Vx650", "precio": 90, "imagen": "img/gf1650w.webp" },
+    { "nombre": "Tarjeta de Video", "marca": "GeForce RTX 3060", "precio": 350, "imagen": "img/6700Xteagle3.webp" }
+]
